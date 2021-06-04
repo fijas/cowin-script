@@ -1,0 +1,17 @@
+{
+    "name": "fijas/cowin",
+    "description": "cowin booking app",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "7.4.x-dev",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Fijas Pocker",
+            "email": "fijas.p@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
